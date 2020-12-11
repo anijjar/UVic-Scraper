@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from selenium import webdriver
 import selenium.webdriver.support.ui as ui
 from selenium.webdriver.common.keys import Keys
